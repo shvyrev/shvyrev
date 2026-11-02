@@ -40,6 +40,13 @@ difficult decisions through PoCs, and staying in code through production.
 | [**keycloak-spi**](https://github.com/shvyrev/keycloak-spi) | Minimal Keycloak Realm REST Resource SPI: custom REST endpoints on the Keycloak server |
 | [**contest_fun**](https://github.com/shvyrev/contest_fun) | Contest solution in Quarkus: human-moderated content publishing workflow — sealed types, provider annotations |
 
+### Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [All articles on Habr](https://habr.com/ru/users/sergey-shvyrev/articles/)
+
 ---
 
 <div align="center">
