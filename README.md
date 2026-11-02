@@ -39,13 +39,6 @@ difficult decisions through PoCs, and staying in code through production.
 | [**keycloak-spi**](https://github.com/shvyrev/keycloak-spi) | Minimal Keycloak Realm REST Resource SPI: custom REST endpoints on the Keycloak server |
 | [**contest_fun**](https://github.com/shvyrev/contest_fun) | Contest solution in Quarkus: human-moderated content publishing workflow — sealed types, provider annotations |
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shvyrev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shvyrev&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-
-</div>
-
 ---
 
 <div align="center">
