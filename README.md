@@ -5,6 +5,7 @@
 **Founder of [Atrium](https://atrium-ai.ru) — a commercial on-premise LLM platform · Principal/Staff-level platform architect**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-shvyrev)
+[![Habr](https://img.shields.io/badge/Habr-65A3BE?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/sergey-shvyrev/)
 [![Website](https://img.shields.io/badge/atrium--ai.ru-111111?style=for-the-badge&logo=safari&logoColor=white)](https://atrium-ai.ru)
 [![ProtonMail](https://img.shields.io/badge/s.shvyrev%40proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:s.shvyrev@proton.me)
 
